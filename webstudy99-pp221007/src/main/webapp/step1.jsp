@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-step1 이야 임마 ~~
+step1 이야 임마 ~
 </div>
 </body>
 </html>
