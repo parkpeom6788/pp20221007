@@ -1,7 +1,6 @@
 package org.kosta.projectname.model;
 
 public class MemberVO {
-	
 	private String id;
 	private String name;
 
@@ -17,5 +16,4 @@ public class MemberVO {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
 }
